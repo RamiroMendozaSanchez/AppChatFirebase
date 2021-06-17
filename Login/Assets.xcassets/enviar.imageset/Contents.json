@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "enviar.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
